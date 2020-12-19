@@ -1,8 +1,10 @@
 // Two Types of Variable in Js
 
-// let and const 
+// let and const
 
-let x = 7;
-let y = 8;
+// Swap the varibles
 
-const z = 6;
+let x = 10;
+let y = 20;
+
+console.log(x, y); // output should be 20  10
